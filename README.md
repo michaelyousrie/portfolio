@@ -4,10 +4,6 @@
 
 #### Michael is a self-taught, medical-college-dropout, and a geek with passion and love for technology & development.
 
-## Portfolio Links & Social Media
-- [LinkedIn](https://www.linkedin.com/in/michael-yousrie-b035a7152/) | [GitHub](https://github.com/michaelyousrie)
-- [Mobihits](https://mobihits.com) | [UAEBARQ](https://uaebarq.ae)
-
 ## Skills
 
 - **Backend/API:** PHP with Laravel, Livewire, Laravel Nova and anything that has documentation.
@@ -20,6 +16,11 @@
 - **English:** Michael’s proficiency in English allowed him to do meetings with non-Arabic speakers from around the globe in multiple fields including Technology and Advertisement.
 - **Outside-The-Box thinking:** Competition is massive in this day and age. Thinking out of the box to do things better than the competition is a positive way of succeeding.
 - **Problem Solving:** Michael loves challenges but loves solving them more.
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/michael-yousrie-b035a7152/) | [GitHub Profile](https://github.com/michaelyousrie)
+- [Mobihits](https://mobihits.com) | [UAEBARQ](https://uaebarq.ae)
+
 
 ## Most Recent Positions
 
