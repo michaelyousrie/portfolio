@@ -20,7 +20,7 @@
 ## Links
 #### Due to the crticiality of the systems that Michael has worked on and the confidentiality of the entities, Michael can't share links to the mentioned systems as they're live, critical and confidential systems.
 
-- [Foodster Portal](https://portal.foodster.club) | [Foodster DCB Subscription Landing Page](https://mobihits.net/subscribe/foodster/ae?template=v2&ref=mghub)
+- [Foodster Portal](https://portal.foodster.club) | [Foodster DCB Subscription Landing Page](https://mobihits.net/subscribe/foodster/ae?template=v2&ref=mghub) | [Games2Learn DCB Subscription Landing Page](https://dtoffers.co/subscribe/games2learn/ae?ref=mghub&template=v4)
 - [Mobihits](https://mobihits.com) | [UAEBARQ](https://uaebarq.ae)
 - [LinkedIn](https://www.linkedin.com/in/michael-yousrie-b035a7152/) | [GitHub Profile](https://github.com/michaelyousrie)
 
