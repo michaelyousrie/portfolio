@@ -18,8 +18,11 @@
 - **Problem Solving:** Michael loves challenges but loves solving them more.
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/michael-yousrie-b035a7152/) | [GitHub Profile](https://github.com/michaelyousrie)
+#### Due to the crticiality of the systems that Michael has worked on and the confidentiality of the entities, Michael can't share links to the mentioned systems as they're live, critical and confidential systems.
+
+- [Foodster Portal](https://portal.foodster.club) | [Foodster DCB Subscription Landing Page](https://mobihits.net/subscribe/foodster/ae?template=v2&ref=mghub)
 - [Mobihits](https://mobihits.com) | [UAEBARQ](https://uaebarq.ae)
+- [LinkedIn](https://www.linkedin.com/in/michael-yousrie-b035a7152/) | [GitHub Profile](https://github.com/michaelyousrie)
 
 
 ## Most Recent Positions
