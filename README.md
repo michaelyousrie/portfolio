@@ -2,11 +2,37 @@
 
 ## Introduction
 
-#### Michael is a self-taught geek with passion and love for anything technology. He started out as a Full Stack Web Developer then quickly moved up the chain of command till he became the Head Of Technology for UAE BARQ. An honorable achievement for a self-taught engineer that dropped out of medical college to pursue his dreams of becoming a successful software engineer.
+#### Michael is a self-taught, medical-college-dropout, and a geek with passion and love for technology & development.
 
-## Most Recent Position
+## Portfolio Links & Social Media
+- [LinkedIn](https://www.linkedin.com/in/michael-yousrie-b035a7152/) | [GitHub](https://github.com/michaelyousrie)
+- [Mobihits](https://mobihits.com) | [UAEBARQ](https://uaebarq.ae)
 
-### CTO @ UAE BARQ
+## Skills
+
+- **Backend/API:** PHP with Laravel, Livewire, Laravel Nova and anything that has documentation.
+- **Frontend:** HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind using Laravel Mix to compile and minify assets.
+- **Databases:** Relational and Non-Relational. SQL to interact directly with the database. ORMs to deal with any kind of database.
+- **Unit Testing:** An application without unit tests is a risky application to maintain. Doing all the refactoring and running a command to ensure the application works correctly is a must have feature for Michael. Also saves the budget for hiring a dedicated tester.
+- **Server Management:** Windows and Linux environments management including setting up and deploying projects with their dependencies, adding automatic deployment using version control and more.
+- **Advertising Management:** Worked directly with marketing affiliates and ad networks to ensure the increase of conversion rates and handled all technical setup required.
+- **Interviewing:** Michael has conducted multiple interviews to hire key members of the team like Front end, Back end and Mobile developers.
+- **English:** Michael’s proficiency in English allowed him to do meetings with non-Arabic speakers from around the globe in multiple fields including Technology and Advertisement.
+- **Outside-The-Box thinking:** Competition is massive in this day and age. Thinking out of the box to do things better than the competition is a positive way of succeeding.
+- **Problem Solving:** Michael loves challenges but loves solving them more.
+
+## Most Recent Positions
+
+### CTO @ Mobihits.com (current)
+##### Handling anything technology-related in a VAS-based LLC.
+- Creating and Maintaining Landing Page systems to allow users to subscribe using DCB.
+- Creating and Maintaining APIs to allow partners and third-parties to consume our services programatically. These APIs include, but not limited to, Subscriptions APIs, User Status APIs, Sending SMSes APIs and more.
+- Developed a private Discord bot which handles mundane tasks like server deployment. It also provides reports on an hourly, daily and weekly basis. The Discord bot also alerts parties about any critical errors in real-time should they happen.
+- Handling technical integrations between our LandingPages system and Operator APIs from different countries with different requirements.
+- Creating and Maintaining an admin panel to manage products and services.
+- Much more.
+
+### UAEBARQ (2 yrs)
 
 - Maintained  already-running projects that had approximately 1 million hits per day.
 - Developed and maintained new web applications. e.g. A whatsapp chat bot for Sharjah Broadcasting Authority (SBA).
